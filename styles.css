@@ -218,6 +218,7 @@ ul {
 }
 
 .services {
+  background-color: #111;
   color: #d41e17; /* RED */
   border: solid #d41e17; /*  RED */
   margin: 0;
